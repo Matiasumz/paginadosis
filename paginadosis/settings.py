@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'index', # se agrega el string con el nombre de la aplicacion creada.
 ]
 
 MIDDLEWARE = [
